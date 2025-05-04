@@ -66,18 +66,6 @@
 
 ---
 
-## 💡 Client Success Stories
-
-> "Mohamed delivered our corporate site 2 weeks ahead of schedule with perfect mobile responsiveness."  
-> — Tech Startup CEO
-
-> "Our WooCommerce store saw 40% faster load times after his optimizations."  
-> — E-Commerce Manager
-
-> "The custom plugin solved our unique business workflow perfectly."  
-> — SaaS Company CTO
-
----
 
 ## 📬 Let's Collaborate!
 
