@@ -9,11 +9,11 @@
 
 ### 🚀 About Me
 
-- 🔧 I'm a **WordPress Developer** with a passion for building **custom themes**, **plugins**, and **dynamic websites**.
-- 🎯 I specialize in creating **fast**, **SEO-optimized**, and **responsive WordPress sites** tailored to client needs.
-- 🧩 Expert in: Custom Theme Development, WooCommerce, Elementor, ACF, CPT, WPBakery, Gutenberg.
-- 🛠️ Also skilled in: HTML5, CSS3, JavaScript, PHP, MySQL, REST API, Git.
-- 💬 I love transforming ideas into functional, visually stunning websites.
+🔧 I'm a **WordPress Developer** with a passion for building **custom themes**, **plugins**, and **dynamic websites**.
+🎯 I specialize in creating **fast**, **SEO-optimized**, and **responsive WordPress sites** tailored to client needs.
+🧩 Expert in: Custom Theme Development, WooCommerce, Elementor, ACF, CPT, WPBakery, Gutenberg.
+🛠️ Also skilled in: HTML5, CSS3, JavaScript, PHP, MySQL, REST API, Git.
+💬 I love transforming ideas into functional, visually stunning websites.
 
 ---
 
