@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header Banner](https://github.com/thisisalamin/thisisalamin/assets/placeholder-for-actual-banner-image/banner.png) <!-- Consider adding a custom banner image -->
+![Header Banner](https://svg-banners.vercel.app/api?type=origin&text1=Mohamed%20Alamin&text2=WordPress%20Solutions%20Architect&width=1200&height=300) 
 
 # 👋 Hi, I'm Mohamed Alamin
 ### Crafting High-Performance WordPress Experiences
@@ -81,6 +81,6 @@ I'm currently available for:
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/View-My%20Portfolio-8A2BE2?style=for-the-badge)](https://yourportfolio.com) <!-- Add your actual portfolio link -->
+[![Portfolio](https://img.shields.io/badge/View-My%20Portfolio-8A2BE2?style=for-the-badge)](https://www.linkedin.com/in/thisismdalamin/)
   
 </div>
