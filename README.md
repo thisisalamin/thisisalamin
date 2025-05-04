@@ -1,6 +1,4 @@
 <div align="center">
-  
-![Header Banner](https://svg-banners.vercel.app/api?type=origin&text1=Mohamed%20Alamin&text2=WordPress%20Solutions%20Architect&width=1200&height=300) 
 
 # 👋 Hi, I'm Mohamed Alamin
 ### Crafting High-Performance WordPress Experiences
