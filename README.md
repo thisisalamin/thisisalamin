@@ -59,17 +59,6 @@
 - 📧 Email: [youremail@example.com](mailto:thisismdalamin@gmail.com)
 - 💬 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/thisismdalamin/)
 
----
-
-### ⭐ Testimonials
-
-> 💬 *"Fantastic developer! Delivered exactly what I envisioned, and even more. Highly recommended!"*  
-> — Happy Client
-
-> 💬 *"Saved our project with amazing WordPress expertise!"*  
-> — Startup CTO
-
----
 
 ### 🎯 Let’s Build Something Great Together!
 
