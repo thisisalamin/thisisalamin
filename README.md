@@ -56,8 +56,8 @@
 
 ### 📫 Get in Touch
 
-- 📧 Email: [youremail@example.com](mailto:thisismdalamin@gmail.com)
-- 💬 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/thisismdalamin/)
+- 📧 Email: [thisismdalamin@gmail.com](mailto:thisismdalamin@gmail.com)
+- 💬 LinkedIn: [https://www.linkedin.com/in/thisismdalamin/](https://www.linkedin.com/in/thisismdalamin/)
 
 
 ### 🎯 Let’s Build Something Great Together!
